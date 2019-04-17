@@ -12,7 +12,11 @@ package pruebagit;
 public class UnaClase {
     
     public void unMetodo(){
-                System.out.printlin("Hola");
+                System.out.println("Hola");
+                
     
+    }
+    public void sinMetodo(){
+        System.out.println("Chau");
     }
 }
